@@ -2,7 +2,9 @@
 
 ## https://heteronanocarb.org/
 
-![HeteroNanoCarb Logo](logo/NoDate/HeteroNanoCarb_NoDate.png)
+<p align="center">
+    <img title="HeteroNanoCarb Logo" width="400" src="logo/NoDate/HeteroNanoCarb_NoDate.png">
+</p>
 
 Website files for the HeteroNanoCarb website.
 
