@@ -1,0 +1,121 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+dt {
+  font-weight:700;
+}
+
+.paint {
+  font-family: 'Finger Paint', cursive;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight:400;
+}
+.bborder {
+  border-bottom: 1px solid #CCC;
+}
+
+
+.top-bar ul li.name a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+.top-bar section ul.right li a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.header-img {
+  text-align: center;
+  padding-bottom: 30px;
+}
+@media only screen and (min-width: 767px) {
+  .header-text {
+    padding-top: 100px;
+  }
+}
+
+.yellow {
+  background-color: #f6ee22;
+}
+.dblue {
+  background-color: #6095c9;
+}
+.blue {
+  background-color: #3CBEEE;
+}
+.greyblue {
+  background-color: #c5d6ea;
+}
+.section_row {
+  padding: 50px 0 30px;
+}
+
+.sponsor_images {
+	text-align: center;
+}
+.sponsor_images a {
+	display:inline-block;
+	vertical-align:middle;
+}
+.sponsor_images img {
+	margin:20px;
+}
+@media only screen and (max-width: 767px) {
+	.sponsor_images img {
+		clear:both;
+	}
+}
+.sidebar_sponsors {
+	display:none;
+}
+@media only screen and (min-width: 1180px) {
+	.sidebar_sponsors {
+		text-align: center;
+		display: block;
+		position: fixed;
+		top: 60px;
+		right: 10px;
+		width:120px;
+	}
+	.sidebar_sponsors img {
+		margin: 10px;
+		max-height:50px;
+		max-width:100px;
+	}
+}
+
+footer {
+  background-color: #222;
+  padding: 20px 0;
+  color:#f4f4f4;
+}
+footer p {
+  margin:0;
+}
+footer p a {
+  color:#f4f4f4;
+  text-decoration: none;
+}
+footer p a:hover {
+  color:#f4f4f4;
+  text-decoration:underline;
+}
+
