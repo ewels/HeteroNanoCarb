@@ -34,6 +34,8 @@ To go live, do the reverse.
 
 ## Deployment
 
-Currently, the site is hosted on Phil's personal shared hosting. Files are uploaded manually via FTP.
+The website is hosted using [GitHub Pages](https://pages.github.com/).
 
-Soon I hope to start using automated deployments onto GitHub Pages.
+To update it, clone the repository to your computer and edit `index.html`. You can open this file in your regular web browser to tech you changes. When you're done, commit any chances and push to the repository. The site should automatically deploy your updates within a couple of minutes. You can see the deployment running under the [Actions tab](https://github.com/ewels/HeteroNanoCarb/actions).
+
+
